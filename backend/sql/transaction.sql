@@ -122,6 +122,3 @@ CREATE TABLE middle_wallet(
 
 INSERT INTO USER(username,PASSWORD,email,role,STATUS) VALUES("admin","admin","admin@qq.com",2,0);
 
-
-
-
